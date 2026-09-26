@@ -1,0 +1,13 @@
+ticket_id,month,team_id,channel,resolution_hours,satisfaction,team,department,breach_flag
+1,Jan,T1,Email,12,4,AccountCare,Service,0
+2,Jan,T2,Chat,28,3,BillingHelp,Service,1
+3,Jan,T3,Phone,36,2,AppSupport,Technical,1
+4,Jan,T4,Email,20,4,DeviceHelp,Technical,0
+5,Feb,T1,Chat,8,5,AccountCare,Service,0
+6,Feb,T2,Phone,30,3,BillingHelp,Service,1
+7,Feb,T3,Email,18,4,AppSupport,Technical,0
+8,Feb,T4,Chat,40,2,DeviceHelp,Technical,1
+9,Mar,T1,Phone,16,4,AccountCare,Service,0
+10,Mar,T2,Email,22,4,BillingHelp,Service,0
+11,Mar,T3,Chat,32,3,AppSupport,Technical,1
+12,Mar,T4,Phone,24,5,DeviceHelp,Technical,0
